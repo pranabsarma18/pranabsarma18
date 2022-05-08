@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @pranabsarma18
 - 👀 I’m interested in Machine Learning, Statistics and Computer Vision
-- 💞️ I’m looking to collaborate on Projects related to Computer Vision
