@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @pranabsarma18
-- 👀 I’m currently learning Data Science, Machine Learning and Applications
+- 👀 I’m currently learning Data Science and ML
+- Intrested in exploring new fields of AI
