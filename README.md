@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @pranabsarma18
-- 👀 I’m currently learning Data Science and ML
-- Intrested in exploring new fields of AI
+Hello! My name is Pranab and I am a student with a passion for solving problems through code. I have a strong background in Python Programming and Data Science and am always looking for new challenges to tackle. In my free time, I enjoy contributing to open source projects on GitHub and collaborating with other developers on new ideas. I am excited to share my skills and learn from others in the community.
