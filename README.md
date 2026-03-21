@@ -16,8 +16,7 @@ Backend | Machine Learning
 
 ---
 
-- 🔭 I’m currently working on **Grocery Management Web App (Django + PostgreSQL)**  
-- 🌱 I’m currently learning **Docker, Cloud, and Data Engineering**  
+- 🔭 I’m currently working on **Django** based Projects
 - 👨‍💻 Deep diving into **C programming (K&R - 1978)**  
 - 🤝 I’m looking to collaborate on **Backend / Django / ML projects**  
 - 💬 Ask me about **Python, Django, Linux, Data Basics**  
