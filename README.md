@@ -30,7 +30,7 @@ Backend Developer | Electronics Engineering Graduate | Tech Explorer
 <a href="https://linkedin.com/in/pranabsarma18" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
-<a href="https://twitter.com/pranabsarma18" target="blank">
+<a href="https://twitter.com/sarmapranab18" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" />
 </a>
 </p>
