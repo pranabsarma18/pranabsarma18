@@ -21,7 +21,7 @@ Backend Developer | Electronics Engineering Graduate | Tech Explorer
 - 👨‍💻 Deep diving into **C programming (K&R - 1978)**  
 - 🤝 I’m looking to collaborate on **Backend / Django / ML projects**  
 - 💬 Ask me about **Python, Django, Linux, Data Basics**  
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **pranavirat12@gmail.com**
 
 ---
 
