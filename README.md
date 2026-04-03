@@ -17,7 +17,6 @@ Backend | Machine Learning
 ---
 
 - 🔭 I’m currently working on **Django** based Projects
-- 👨‍💻 Deep diving into **C programming (K&R - 1978)**  
 - 🤝 I’m looking to collaborate on **Backend / Django / ML projects**  
 - 💬 Ask me about **Python, Django, Linux, Data Basics**  
 - 📫 How to reach me: **pranavirat12@gmail.com**
