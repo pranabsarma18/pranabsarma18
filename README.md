@@ -16,9 +16,9 @@ Master Programmer | Learning Full Stack Web Development | Machine Learning
 
 ---
 
-- 🔭 I’m currently working on **Django** based Projects
+- 🔭 I’m currently working on **Web Application** based Projects
 - 🤝 I’m looking to collaborate on **Backend / Django / ML projects**  
-- 💬 Ask me about **Python, Django, Linux, Data Basics**  
+- 💬 Ask me about **Python, Django, Linux, Data Scinece Basics**  
 - 📫 How to reach me: **pranavirat12@gmail.com**
 
 ---
