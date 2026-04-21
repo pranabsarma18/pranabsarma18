@@ -1,7 +1,7 @@
 <h1 align="center">Hello folks! 👋 I'm Pranab</h1>
 
 <h3 align="center">
-Backend | Machine Learning
+Master Programmer | Learning Full Stack Web Development | Machine Learning 
 </h3>
 
 <p align="center">
