@@ -54,12 +54,3 @@ On a lifelong journey to master programming | Web Development | Machine Learning
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranabsarma18&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### ⚡ Fun Note:
-> I believe mastering the **fundamentals (like C)** is the key to becoming a strong developer.
-
----
-
-### 🚀 Let's connect and build something amazing together!
