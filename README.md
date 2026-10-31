@@ -44,13 +44,13 @@ On a lifelong journey to master programming | Web Development | Machine Learning
 
 ### 📊 GitHub Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=pranabsarma18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pranabsarma18&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranabsarma18&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranabsarma18&theme=tokyonight" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranabsarma18&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranabsarma18&layout=compact&theme=tokyonight" />
 </p>
