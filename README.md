@@ -1,7 +1,7 @@
 <h1 align="center">Hello folks! 👋 I'm Pranab</h1>
 
 <h3 align="center">
-Master Programmer | Learning Full Stack Web Development | Machine Learning 
+On a lifelong journey to master programming | Web Development | Machine Learning & AI
 </h3>
 
 <p align="center">
@@ -18,7 +18,8 @@ Master Programmer | Learning Full Stack Web Development | Machine Learning
 
 - 🔭 I’m currently working on **Web Application** based Projects
 - 🤝 I’m looking to collaborate on **Backend / Django / ML projects**  
-- 💬 Ask me about **Python, Django, Linux, Data Scinece Basics**  
+- 💬 Ask me about **Python, Django, Linux, Data Scinece Basics**
+- 🌐 Portfolio: pranabsarma18.github.io
 - 📫 How to reach me: **pranabsarma.tech@gmail.com**
 
 ---
