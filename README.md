@@ -16,9 +16,8 @@ On a lifelong journey to master programming | Web Development | Machine Learning
 
 ---
 
-- 🔭 I’m currently working on **Web Application** based Projects
-- 🤝 I’m looking to collaborate on **Backend / Django / ML projects**  
-- 💬 Ask me about **Python, Django, Linux, Data Scinece Basics**
+- 🔭 Currently working on **Web Application** based Projects
+- 💼 Open to job opportunities, internships, and collaborations in Backend Development, Django, and Machine Learning.
 - 🌐 Portfolio: pranabsarma18.github.io
 - 📫 How to reach me: **pranabsarma.tech@gmail.com**
 
