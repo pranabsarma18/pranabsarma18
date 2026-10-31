@@ -18,7 +18,7 @@ On a lifelong journey to master programming | Web Development | Machine Learning
 
 - 🔭 Currently working on **Web Application** based Projects
 - 💼 Open to job opportunities, internships, and collaborations
-- 🌐 Portfolio: pranabsarma18.github.io
+- 🌐 Portfolio: [pranabsarma18.github.io](https://pranabsarma18.github.io/)
 - 📫 How to reach me: **pranabsarma.tech@gmail.com**
 
 ---
